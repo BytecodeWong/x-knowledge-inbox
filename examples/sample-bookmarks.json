@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://x.com/example/status/1001",
+    "title": "Building a reliable AI agent workflow",
+    "text": "A practical thread about keeping agent actions reviewable and reversible.",
+    "author": "@example",
+    "created_at": "2026-08-10T09:00:00Z",
+    "tags": ["ai", "agents"]
+  },
+  {
+    "url": "https://x.com/example/status/1002",
+    "title": "A small product discovery checklist",
+    "text": "Ask what people do today, what it costs them, and what they tried before.",
+    "author": "@builder",
+    "created_at": "2026-08-09T12:30:00Z",
+    "tags": ["product", "research"]
+  },
+  {
+    "url": "https://x.com/example/status/1003",
+    "title": "A local-first knowledge workflow",
+    "text": "Keep user data on the device, make exports obvious, and design for recovery.",
+    "author": "@localfirst",
+    "created_at": "2026-08-08T15:45:00Z",
+    "tags": ["privacy", "tools"]
+  }
+]
